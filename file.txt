@@ -1,0 +1,4 @@
+Amazon VPC stands for Virtual Private Cloud.
+It allows us to create an isolated virtual network in AWS.
+We can configure subnets, IP addresses, route tables, and gateways.
+VPC provides a secure and controlled networking environment for AWS resources.
